@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Shubham Bhadoriya </span>
             from <span className="purple"> Valsad, India.</span>
             <br />
-            I am currently Looking for software developer role .
+            I am currently Looking for a software developer role.
             <br />
-            I have completed Bachelors of Engineering(BE) in computer Engineering at Gtu.
+            I have completed a Bachelor of Engineering(BE) in Computer Engineering.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
