@@ -33,7 +33,7 @@ function Projects() {
             <ProjectCard
               imgPath={ser}
               isBlog={false}
-              title="Speech emotion recognitionn"
+              title="Speech emotion recognition"
               description="Speech emotion recognition (SER) is the process of identifying the underlying emotions conveyed in spoken language. It involves analyzing acoustic features such as pitch, intensity, and duration to classify emotions like happiness, sadness, anger, and more. SER finds applications in fields like psychology, human-computer interaction, and customer service, aiding in understanding and responding to human emotions effectively. Its advancements leverage machine learning and deep learning techniques to enhance accuracy, making it a valuable tool for various domains."
               ghLink="https://github.com/shubhamvbhadoriya/Speech-emotional-recognition"
              
